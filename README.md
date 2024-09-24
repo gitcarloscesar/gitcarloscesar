@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Olá, meu nome é Carlos. Sou um desenvolvedor apaixonado por tecnologia e estudante de longa data de Ciência da Computação e Engenharia. Buscando constantemente aprender e criar soluções que realmente façam a diferença, estou sempre evoluindo e buscando novas formas de resolver problemas de forma prática e eficiente. Acredito que a chave para crescer na área de tecnologia é nunca parar de aprender, e é isso que me inspira todos os dias.</h4>
+<h4 align="center">Olá, meu nome é Carlos. Sou um desenvolvedor apaixonado por tecnologia e estudante de longa data de Ciência e Engenharia da Computação. Buscando constantemente aprender e criar soluções que realmente façam a diferença, estou sempre evoluindo e buscando novas formas de resolver problemas de forma prática e eficiente. Acredito que a chave para crescer na área de tecnologia é nunca parar de aprender, e é isso que me inspira todos os dias.</h4>
 
 ###
 
