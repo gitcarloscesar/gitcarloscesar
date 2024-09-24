@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Hello, I'm Carlos. I'm a developer passionate about technology and a lifelong student of Computer Science and Engineering. Constantly seeking to learn and create solutions that truly make a difference, I'm always evolving and looking for new ways to solve problems practically and efficiently. I believe that the key to growing in the tech field is to never stop learning, and that's what inspires me every day.</h4>
+<h4 align="center">Olá, meu nome é Carlos. Sou um desenvolvedor apaixonado por tecnologia e estudante de longa data de Ciência da Computação e Engenharia. Buscando constantemente aprender e criar soluções que realmente façam a diferença, estou sempre evoluindo e buscando novas formas de resolver problemas de forma prática e eficiente. Acredito que a chave para crescer na área de tecnologia é nunca parar de aprender, e é isso que me inspira todos os dias.</h4>
 
 ###
 
