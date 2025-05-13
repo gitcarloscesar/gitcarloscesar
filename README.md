@@ -1,80 +1,65 @@
-<br clear="both">
+<!-- Banner Futurista com Nome -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlosCesarRosa/CarlosCesarRosa/main/banner-carlos-cesar.png" alt="Carlos César Banner" />
+</p>
 
-<h4 align="center">Olá, meu nome é Carlos. Sou um desenvolvedor apaixonado por tecnologia e estudante de longa data de Ciência e Engenharia da Computação. Buscando constantemente aprender e criar soluções que realmente façam a diferença, estou sempre evoluindo e buscando novas formas de resolver problemas de forma prática e eficiente. Acredito que a chave para crescer na área de tecnologia é nunca parar de aprender, e é isso que me inspira todos os dias.</h4>
+---
 
-###
+### 🤖 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitcarloscesar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=gitcarloscesar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitcarloscesar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Olá! Eu sou **Carlos César**, um estudante de **Engenharia Mecânica**, movido pela paixão por **tecnologia**, **automação** e **engenharia de inovação**.  
 
-###
+Meu foco é explorar as conexões entre **máquinas inteligentes**, **sistemas embarcados**, e **software técnico**, transformando ideias em **protótipos reais**.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
+> “Código e engrenagens unidos para transformar ideias em realidade.”
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/carlinholuana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-c%C3%A9sar-da-rosa-618169269/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="contatocarloscesar3193@outlook.com " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://w.app/3JK8tO" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+### ⚙️ Tecnologias e Ferramentas
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoCAD-D00000?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT-00A5FF?style=for-the-badge&logo=internetofthings&logoColor=white" />
+</p>
+
+---
+
+### 🛠️ Projetos e Protótipos em Andamento
+
+- 🔬 Monitoramento de temperatura e vibração via sensores embarcados
+- ⚙️ Protótipo de automação para bancada mecânica de testes
+- 📡 Comunicação serial entre Arduino e interface Python
+- 🌐 Sistema de coleta de dados em tempo real com Raspberry Pi
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=CarlosCesarRosa&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+- 🧠 [Portfólio](https://seuportfolio.com)
+- 📧 Email: voce@email.com
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" />
+</p>
+<p align="center">
+  <em>“Engenharia não é apenas cálculo, é criatividade aplicada.”</em>
+</p>
+
