@@ -1,8 +1,6 @@
-<!-- Banner Futurista com Nome -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CarlosCesarRosa/CarlosCesarRosa/main/banner-carlos-cesar.png" alt="Carlos César Banner" />
-</p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFD9&center=true&vCenter=true&width=1000&lines=Carlos+C%C3%A9sar+da+Rosa;Estudante+de+Engenharia+Mec%C3%A2nica;Tecnologia+%7C+Inova%C3%A7%C3%A3o+%7C+Sistemas+Embarcados" alt="Typing SVG" />
+</h1>
 ---
 
 ### 🤖 Sobre mim
