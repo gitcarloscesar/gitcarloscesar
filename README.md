@@ -1,97 +1,73 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FFD9&center=true&vCenter=true&width=1000&lines=Carlos+C%C3%A9sar+da+Rosa;Estudante+de+Engenharia+Mec%C3%A2nica;Tecnologia+%7C+Inova%C3%A7%C3%A3o+%7C+Sistemas+Embarcados" alt="Typing SVG" />
-</h1>
----
-
-### 🤖 Sobre mim
-
-Olá! Eu sou **Carlos César**, um estudante de **Engenharia Mecânica**, movido pela paixão por **tecnologia**, **automação** e **engenharia de inovação**.  
-
-Meu foco é explorar as conexões entre **máquinas inteligentes**, **sistemas embarcados**, e **software técnico**, transformando ideias em **protótipos reais**.
-
-> “Código e engrenagens unidos para transformar ideias em realidade.”
+<h1 align="center">👨‍💻 Carlos César da Rosa</h1>
+<h3 align="center">💡 Entusiasta em Tecnologia | Robótica | Sistemas Embarcados | Programação</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFD9&width=435&lines=Amante+da+Tecnologia+e+Inova%C3%A7%C3%A3o;Focado+em+Rob%C3%B3tica%2C+Games+e+IoT;Criando+com+JavaScript%2C+Python+e+C%2FC%2B%2B" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌌 Um olhar além do convencional
+### 👾 Sobre mim
 
-Desde cedo, fui fascinado por máquinas, sistemas e pela forma como tecnologia e engenharia se entrelaçam para criar soluções que mudam o mundo. Como estudante de **Engenharia Mecânica**, não me limito ao estudo das estruturas físicas – busco compreender e desenvolver **sistemas mecatrônicos**, **automação embarcada**, e **inteligência aplicada ao hardware**.
+Olá! Eu sou **Carlos César**, apaixonado por **tecnologia**, **robótica**, **programação** e tudo o que envolve transformar ideias em realidade digital.  
+Minha jornada começou no campo com agricultura de precisão, e em 2021 embarquei na graduação em **Ciência da Computação** — uma virada que me conectou de vez ao universo dos códigos e dos circuitos.
 
-Atualmente, dedico meus esforços a unir o **pensamento analítico da engenharia** com a **lógica da programação**, desenvolvendo projetos que combinam sensores, microcontroladores, simulações mecânicas e controle de processos.
+Hoje, mergulho fundo em **sistemas embarcados**, **desenvolvimento web**, **linguagens de programação** e **tecnologia aplicada ao mundo real**. Sou movido por curiosidade, criatividade e a vontade de impactar positivamente com soluções inteligentes.
 
-Sou movido por uma inquietação criativa: a vontade de construir algo que funcione, resolva um problema real e tenha impacto. 
-
-Meus projetos vão desde protótipos de automação com Arduino e Raspberry Pi até modelagens em SolidWorks e integração de sistemas usando Python, C/C++ e bibliotecas voltadas ao controle técnico.
-
----
-
-### 🚀 Missão pessoal
-
-Minha missão é clara: **transformar conhecimento técnico em soluções práticas**, contribuindo para um mundo mais inteligente, sustentável e conectado. Vejo na tecnologia embarcada, na robótica e na engenharia digital um caminho para revolucionar processos industriais, agrícolas e urbanos.
-
----
-
-### 💡 O que estou buscando
-
-- Colaborações em projetos de inovação e automação  
-- Desenvolvimento de protótipos inteligentes  
-- Aplicações de sistemas embarcados em contextos reais (Agro, Indústria, Saúde)  
-- Iniciativas de pesquisa e desenvolvimento multidisciplinar  
-
----
-
-### 🧠 Valores que carrego
-
-- 🚧 Curiosidade construtiva: tudo pode ser aprendido, testado e melhorado.  
-- ⚙️ Rigor técnico com criatividade: disciplina e liberdade trabalham juntas.  
-- 🤝 Trabalho em equipe e visão compartilhada: a engenharia é um esforço coletivo.  
+> “Não programo apenas linhas de código — programo possibilidades.”
 
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
 
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=solidworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoCAD-D00000?style=for-the-badge&logo=autodesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/IoT-00A5FF?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sistemas%20Embarcados-0A0A0A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rob%C3%B3tica-e30000?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Projetos e Protótipos em Andamento
+### 🔧 Em construção
 
-- 🔬 Monitoramento de temperatura e vibração via sensores embarcados  
-- ⚙️ Protótipo de automação para bancada mecânica de testes  
-- 📡 Comunicação serial entre Arduino e interface Python  
-- 🌐 Sistema de coleta de dados em tempo real com Raspberry Pi  
+- 🎮 Mini jogos em JavaScript  
+- 🧠 Interfaces para sensores físicos com Arduino  
+- 🛰️ Comunicação entre hardware e software via serial/Python  
+- 🤖 Robôs simples com lógica embarcada e sensores  
+- 🌐 Interfaces web conectadas a hardware real  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=CarlosCesarRosa&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitcarloscesar&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitcarloscesar&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitcarloscesar&theme=radical" />
 </p>
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 📬 Entre em contato comigo
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-c%C3%A9sar-da-rosa-007732364/)
-- 🧠 [Portfólio](https://seuportfolio.com)
-- 📧 Email: voce@email.com
+<p align="center">
+  <a href="mailto:contatocarloscesar3193@outlook.com">
+    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-c%C3%A9sar-da-rosa-845471371/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" />
-</p>
-<p align="center">
-  <em>“Engenharia não é apenas cálculo, é criatividade aplicada.”</em>
-</p>
