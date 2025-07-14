@@ -1,73 +1,91 @@
-<h1 align="center">👨‍💻 Carlos César da Rosa</h1>
-<h3 align="center">💡 Entusiasta em Tecnologia | Robótica | Sistemas Embarcados | Programação</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFD9&width=435&lines=Amante+da+Tecnologia+e+Inova%C3%A7%C3%A3o;Focado+em+Rob%C3%B3tica%2C+Games+e+IoT;Criando+com+JavaScript%2C+Python+e+C%2FC%2B%2B" alt="Typing SVG" />
-</p>
+# Hello! 👋
+
+I'm Carlos César — a tech enthusiast passionate about connecting software engineering, cloud infrastructure, and data systems to deliver scalable, high-impact solutions.  
+Driven by curiosity, I’m constantly exploring how emerging technologies can solve real-world problems through automation, intelligence, and seamless integration.
 
 ---
 
-### 👾 Sobre mim
+## 🛠 Technologies & Tools
 
-Olá! Eu sou **Carlos César**, apaixonado por **tecnologia**, **robótica**, **programação** e tudo o que envolve transformar ideias em realidade digital.  
-Minha jornada começou no campo com agricultura de precisão, e em 2021 embarquei na graduação em **Ciência da Computação** — uma virada que me conectou de vez ao universo dos códigos e dos circuitos.
+<div align="center">
 
-Hoje, mergulho fundo em **sistemas embarcados**, **desenvolvimento web**, **linguagens de programação** e **tecnologia aplicada ao mundo real**. Sou movido por curiosidade, criatividade e a vontade de impactar positivamente com soluções inteligentes.
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-> “Não programo apenas linhas de código — programo possibilidades.”
+<br />
 
----
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
-### ⚙️ Tecnologias e Ferramentas
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sistemas%20Embarcados-0A0A0A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rob%C3%B3tica-e30000?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+<!-- Cloud & DevOps -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
----
+<br />
 
-### 🔧 Em construção
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-- 🎮 Mini jogos em JavaScript  
-- 🧠 Interfaces para sensores físicos com Arduino  
-- 🛰️ Comunicação entre hardware e software via serial/Python  
-- 🤖 Robôs simples com lógica embarcada e sensores  
-- 🌐 Interfaces web conectadas a hardware real  
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitcarloscesar&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitcarloscesar&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitcarloscesar&theme=radical" />
-</p>
+</div>
 
 ---
 
-### 📬 Entre em contato comigo
+## 🌐 Social Media
 
-<p align="center">
-  <a href="mailto:contatocarloscesar3193@outlook.com">
-    <img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/carlos-c%C3%A9sar-da-rosa-845471371/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://facebook.com/gitcarloscesar" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/gitcarloscesar" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://youtube.com/@gitcarloscesar" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://tiktok.com/@gitcarloscesar" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://www.threads.net/@gitcarloscesar" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=about.me&logoColor=white" />
+</a>
+
+</div>
 
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/gitcarloscesar">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gitcarloscesar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
+</a>
+<a href="https://github.com/gitcarloscesar">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitcarloscesar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+<a href="https://github.com/gitcarloscesar">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=gitcarloscesar&theme=tokyonight&hide_border=true&border_radius=10" />
+</a>
+
+</div>
+
+---
+
+> “Knowledge without action is theory; action without knowledge is risk. True technology unites both.”
+
